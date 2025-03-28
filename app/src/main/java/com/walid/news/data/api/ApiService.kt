@@ -13,7 +13,7 @@ interface ApiService {
 
   suspend fun getNewsHeadline(
     @Query("country")country: String,
-    @Query("apiKey")apiKey: String="6f89ccfbae904b0fba5a7a9d51e59594"
+    @Query("apiKey")apiKey: String="your api key from "newsapi.org"
 ) :Response<NewsResponse>
 
 
