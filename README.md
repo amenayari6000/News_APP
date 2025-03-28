@@ -38,11 +38,12 @@ Join us on this exciting journey into the world of Jetpack Compose and **level u
 
 ### 📸 Screenshots
 <img src="https://github.com/user-attachments/assets/48d99f36-5341-47b9-b5dd-bd36431fe132" width="150">
-<img src="github.com/user-attachments/assets/ac128e3d-ee3f-4051-9f77-fdd1163026fc" width="150">
+<img src="https://github.com/user-attachments/assets/02df1877-a415-4a06-ba7a-3083315915fa" width="150">
 
 
 
 ---
+
 
 ### 🚀 Get Started
 Clone the repository and start building:
